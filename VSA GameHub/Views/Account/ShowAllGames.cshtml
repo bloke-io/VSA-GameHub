@@ -1,0 +1,53 @@
+﻿@model VSA_GameHub.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "ShowAllGames";
+}
+
+<h2>Мои игри:</h2>
+
+<table id="tableGames">
+    <thead>
+        <tr>
+            <td style="font-size:18px">
+                Име игра:
+            </td>
+            <td>
+
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var g in Model.All_Games)
+        {
+        <tr>
+            <td><a style="color:white;font-size:25px" href="~/Games/Details/@g.Id">@g.Name</a></td>
+            <td><button data-id="@g.Id" class="btn btn-danger">Избриши</button></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+
+@section Scripts{
+   <script>
+       @if (Model.All_Games.Count == 0) {
+           return;
+       }
+
+       $(document).ready(function () {
+                           var table = $("#tableGames").DataTable();
+       $("table tr button").on("click", function () {
+                               var btn = $(this)
+           $.ajax({
+                               method: "POST",
+               url: "/Account/DeleteGame/" + btn.attr("data-id"),
+               success: function () {
+                                       table.row(btn.parent.parent).remove().draw()
+               }
+                               })
+       })
+    })
+    </script>
+}
+

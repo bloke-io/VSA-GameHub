@@ -1,0 +1,358 @@
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csprojAssemblyReference.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.CoreCompileInputs.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.pdb
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.AppContext.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Console.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Http.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.ValueTuple.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Razor.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\WebGrease.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Razor.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.pdb
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.CopyComplete
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.pdb
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.prvamig.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.GenerateResource.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration2.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration3.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig3.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig4.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig5.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig6.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig7.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig8.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig9.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll.config
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\VSA GameHub.pdb
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe.config
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csc.rsp
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe.config
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\csi.rsp
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.AppContext.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Console.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Http.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe.config
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\vbc.rsp
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Owin.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Razor.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\WebGrease.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.Razor.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.pdb
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csprojAssemblyReference.cache
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.prvamig.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration2.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration3.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig3.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig4.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig5.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig6.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig7.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig8.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig9.resources
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.GenerateResource.cache
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.CopyComplete
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.dll
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.pdb
+C:\Users\Vlado\Desktop\VSA GameHub\VSA GameHub\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig10.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\VSA GameHub.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\VSA GameHub.pdb
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csc.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csc.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csi.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\csi.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.AppContext.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Console.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Http.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.ValueTuple.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\vbc.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\vbc.rsp
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\EntityFramework.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Owin.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Razor.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\WebGrease.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Helpers.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Mvc.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Optimization.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.Razor.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Newtonsoft.Json.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Antlr3.Runtime.pdb
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\EntityFramework.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\EntityFramework.SqlServer.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csprojAssemblyReference.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.prvamig.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration2.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.migration3.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig3.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig4.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig5.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig6.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig7.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig8.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.newmig9.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA_GameHub.Migrations.mig10.resources
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.GenerateResource.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.CoreCompileInputs.cache
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.csproj.CopyComplete
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.dll
+C:\Users\Damchevski\Desktop\VSA GameHub\VSA GameHub\obj\Debug\VSA GameHub.pdb

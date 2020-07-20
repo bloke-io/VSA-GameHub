@@ -1,0 +1,28 @@
+﻿@model VSA_GameHub.Models.CreditToUser
+
+@{
+    ViewBag.Title = "AddCredit";
+}
+
+<h2>Додавање кредит</h2>
+<h2>@Model.userName</h2>
+
+@using (Html.BeginForm("AddCredit", "Account", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.userId)
+    <hr />
+    @Html.LabelFor(m => m.creditCard)
+    <div class="form-group" style="color:black">
+        @Html.TextBoxFor(m => m.creditCard, new { @class = "form-control" })
+    </div>
+
+    @Html.LabelFor(m => m.addedCredit)
+    <div class="form-group">
+        @Html.TextBoxFor(m => m.addedCredit,new { @class = "form-control" })
+    </div>
+
+    <hr />
+    <button class="btn btn-default" style="color:black;" type="submit">Додади</button>
+    <button class="btn btn-default"><a style="color:black;" href="~/Manage/Index">Откажи</a></button>
+}
+

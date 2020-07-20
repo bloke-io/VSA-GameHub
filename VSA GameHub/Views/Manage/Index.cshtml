@@ -1,0 +1,17 @@
+﻿@model VSA_GameHub.Models.IndexViewModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+
+<h2>@Model.Name @Model.Surname</h2>
+<h3>@Model.City, @Model.Country</h3>
+<h3>Број на кредити: @Model.Balance</h3>
+<button class="btn btn-default"><a style="color:black;" href="~/Account/AddCredit">Додади кредити</a></button>
+<h3>Број на игри: @Model.NumberOfGames</h3>
+<button class="btn btn-default"><a style="color:black;" href="~/Account/ShowAllGames">Сите игри</a></button><br /><br />
+<button class="btn btn-default"><a style="color:black;" href="~/Manage/ChangePassword">Промени лозинка</a></button>
+
+
+
+

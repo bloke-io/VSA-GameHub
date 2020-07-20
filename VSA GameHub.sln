@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSA GameHub", "VSA GameHub\VSA GameHub.csproj", "{EFBDB21C-A51C-4F1A-A0DB-63EADA6F66C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFBDB21C-A51C-4F1A-A0DB-63EADA6F66C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBDB21C-A51C-4F1A-A0DB-63EADA6F66C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBDB21C-A51C-4F1A-A0DB-63EADA6F66C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBDB21C-A51C-4F1A-A0DB-63EADA6F66C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5997D32-0291-4220-ADB0-2FBC7FEAD8D3}
+	EndGlobalSection
+EndGlobal
