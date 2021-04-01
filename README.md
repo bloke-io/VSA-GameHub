@@ -19,3 +19,8 @@
 ![sl4](/slika4.png)
 
 За повеќе можете да ја симнете и извршите апликацијата.
+
+
+181100 Damchevski Ane
+181257 Sashe Klincharov
+181182 Vlado Dimovski
